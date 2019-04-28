@@ -1,0 +1,19 @@
+.alert {
+  position: absolute;
+  top: 60px;
+  left: 20px;
+  right: 20px;
+  border-radius: 6px;
+}
+
+td,
+th {
+  width: 200px;
+}
+
+.trash-td,
+.trash-th {
+  text-align: center;
+  max-width: 50px;
+  width: 50px;
+}
